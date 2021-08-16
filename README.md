@@ -13,8 +13,6 @@
   <img align="center" alt="Nath-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nath-SASS" height="30" width="40" src="https://raw.githubusercontent.com/nathaliagalante/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
-   <img align="center" alt="Nath-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/nathaliagalante/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg">
   <img align="right" alt="Nath-Avatar" height="100" width="100" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_SNJRP78M.png">
 </div>
   
