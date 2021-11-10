@@ -13,10 +13,11 @@
   <a href="https://www.linkedin.com/in/nathalia-galante-58a12a125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-### <b>:brain: &nbsp; Focused on </b></summary><br/>  
+### <b>:brain: &nbsp; Knowledges </b></summary><br/>  
 <p align="left">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+  <img align="center" alt="angular" width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
