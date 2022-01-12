@@ -2,8 +2,8 @@
 
 ### ✍️ About
 
-📚 I'm currently studying Bachelor in Information Systems <br>
-👩‍💻 Currently working as Front-end Developer Intern at 3G Multiplique <br>
+📚 I'm Bachelor in Information Systems <br>
+👩‍💻 I've worked as Front-end Developer Intern at 3G Multiplique <br>
 💬 Any help or tip is always welcome! <br>
 
 ### 📬 Contact
