@@ -2,7 +2,7 @@
 
 ### ✍️ About
 
-📚 I'm Bachelor in Information Systems <br>
+📚 I have Bachelor degree in Information Systems <br>
 👩‍💻 I've worked as Front-end Developer Intern at 3G Multiplique <br>
 💬 Any help or tip is always welcome! <br>
 
