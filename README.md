@@ -1,4 +1,4 @@
-<img src="nath-avatar.png" min-width="300px" max-width="300px" width="300px" style="border-radius:50%" align="right" alt="Avatar">
+<img src="nath-avatar.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Avatar">
 
 <p align="left"> 
  🖖 Olá, meu nome é Nathalia Galante. Sou <strong>Front-end developer</strong> formada em <strong>Sistemas de Informação</strong>.
