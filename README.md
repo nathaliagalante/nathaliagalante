@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="nath-avatar.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
 <p align="left"> 
  🖖 Olá, meu nome é Nathalia Galante. Sou <strong>Front-end developer</strong> formada em <strong>Sistemas de Informação</strong>.
