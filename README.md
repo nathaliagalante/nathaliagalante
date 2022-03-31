@@ -1,7 +1,7 @@
 <img src="nath-avatar.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Avatar">
 
 <p align="left"> 
- 🖖 Olá, meu nome é Nathalia Galante. Uma <strong>Analista de Sistemas</strong> que atua como <strong>Desenvolvedora Front-end</strong>.
+ 🖖 Olá, meu nome é Nathalia Galante e sou uma <strong>Analista de Sistemas</strong> que atua como <strong>Desenvolvedora Front-end</strong>.
 </p>
 
 <p align="left">
