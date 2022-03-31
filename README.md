@@ -1,15 +1,15 @@
 <img src="nath-avatar.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Avatar">
 
 <p align="left"> 
- 🖖 Olá, meu nome é Nathalia Galante. Sou <strong>Front-end developer</strong> formada em <strong>Sistemas de Informação</strong>.
+ 🖖 Olá, meu nome é Nathalia Galante. Uma <strong>Analista de Sistemas</strong> que atua como <strong>Desenvolvedora Front-end</strong>.
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, ReactJS, Styled Components e Angular.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, ReactJS, Styled Components, Vue e Angular.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Asana, Jira, Git e GitHub.</strong>
 </p>
 
 
